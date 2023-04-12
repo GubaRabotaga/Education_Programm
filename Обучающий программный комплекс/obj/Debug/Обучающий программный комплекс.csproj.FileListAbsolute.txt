@@ -1,0 +1,13 @@
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\bin\Debug\Обучающий программный комплекс.exe.config
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\bin\Debug\Обучающий программный комплекс.exe
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\bin\Debug\Обучающий программный комплекс.pdb
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий программный комплекс.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий программный комплекс.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий_программный_комплекс.Form1.resources
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий_программный_комплекс.Properties.Resources.resources
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий программный комплекс.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий программный комплекс.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий программный комплекс.exe
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий программный комплекс.pdb
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий_программный_комплекс.Form2.resources
+C:\Users\ivang\OneDrive\Desktop\Обучающий программный комплекс\Обучающий программный комплекс\obj\Debug\Обучающий_программный_комплекс.Form3.resources

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd4801cf-c2d9-4871-b6fe-fc0022e2821c": {
+      "ProjectGuid": "fd4801cf-c2d9-4871-b6fe-fc0022e2821c",
+      "DisplayName": "Обучающий программный комплекс",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
